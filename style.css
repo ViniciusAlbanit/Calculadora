@@ -16,6 +16,7 @@
     transform: translate(-50%,-50%);
     border-radius: 10px;
     padding: 15px;
+    box-shadow: 10px 1px 10px black;
 }
 .botao{
     height: 50px;
@@ -33,7 +34,7 @@
 #resultado{
     background-color:rgb(255, 255, 255);
     height: 30px;
-    width: 207px;
+    width: 217px;
     margin: 3px;
     text-align: right;
     font-size: 22px;
