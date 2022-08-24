@@ -1,6 +1,5 @@
 function insert(num){
-   let numero = document.getElementById('resultado').innerHTML;
-   document.getElementById('resultado').innerHTML = numero + num;
+   document.getElementById('resultado').innerHTML += num;
 }
 function clean(){
         document.getElementById('resultado').innerHTML = '';
